@@ -1,16 +1,11 @@
 
-$primaryBtn : purple;
+@import "./variables";
+@import "./header";
 
-$textColor: white;
 
-
-header {
-    background: lightblue;
-    display: flex;
-    justify-content: center;
-    color: $textColor;
+.contact {
     button {
-        background: $primaryBtn;
         color: $textColor;
+        background: $primaryBtn;
     }
 }
