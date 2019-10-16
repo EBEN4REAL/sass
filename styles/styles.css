@@ -1,0 +1,16 @@
+header {
+  background: lightblue;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: white;
+}
+
+header button {
+  background: purple;
+  color: white;
+}
+/*# sourceMappingURL=styles.css.map */

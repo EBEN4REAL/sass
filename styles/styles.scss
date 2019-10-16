@@ -1,0 +1,16 @@
+
+$primaryBtn : purple;
+
+$textColor: white;
+
+
+header {
+    background: lightblue;
+    display: flex;
+    justify-content: center;
+    color: $textColor;
+    button {
+        background: $primaryBtn;
+        color: $textColor;
+    }
+}
